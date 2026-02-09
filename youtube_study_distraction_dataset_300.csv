@@ -1,0 +1,301 @@
+Date,Study_Video,Distracted,Distract_Type,Watch_Time_Minutes,Focus_Level
+2025-02-14,Power BI Tutorial,Yes,None,102.0,Low
+2025-02-17,Excel Tips,No,None,175.0,Medium
+2025-04-28,Excel Tips,Yes,Music,71.0,High
+2025-03-06,Pandas Course,No,None,113.0,High
+2025-03-09,Data Analysis,No,None,78.0,Medium
+2025-03-09,SQL Lecture,No,None,129.0,High
+2025-04-14,Excel Tips,Yes,None,142.0,Medium
+2025-01-10,Data Analysis,,Reels,115.0,Low
+2025-03-25,Statistics Class,No,None,46.0,Low
+2025-01-22,Statistics Class,Yes,Reels,90.0,Medium
+2025-04-25,Statistics Class,Yes,Reels,175.0,
+2025-02-06,SQL Lecture,Yes,Music,,Low
+2025-03-29,Pandas Course,Yes,Comedy,45.0,High
+2025-03-12,Excel Tips,Yes,Shorts,138.0,High
+2025-03-30,Excel Tips,No,,59.0,Low
+,Python Tutorial,Yes,Gaming,19.0,Low
+2025-01-13,SQL Lecture,Yes,,60.0,High
+2025-02-28,Statistics Class,Yes,None,22.0,Low
+2025-03-07,Python Tutorial,No,None,,Low
+,Pandas Course,No,None,174.0,Medium
+2025-02-09,Python Tutorial,No,None,109.0,Low
+2025-03-29,Data Analysis,,None,112.0,Low
+2025-02-16,Excel Tips,Yes,Gaming,46.0,High
+2025-03-30,Statistics Class,Yes,Music,40.0,Medium
+,,Yes,None,124.0,Medium
+2025-02-07,Statistics Class,No,None,157.0,Medium
+2025-01-26,Power BI Tutorial,Yes,Gaming,176.0,High
+2025-03-19,Python Tutorial,Yes,None,45.0,Low
+2025-03-14,Power BI Tutorial,Yes,None,24.0,
+2025-01-10,Python Tutorial,No,None,39.0,High
+2025-01-21,Statistics Class,Yes,Shorts,70.0,Medium
+2025-04-26,SQL Lecture,No,None,91.0,Low
+2025-03-22,SQL Lecture,Yes,Gaming,77.0,High
+2025-04-26,Python Tutorial,Yes,Comedy,,High
+2025-03-11,Data Analysis,No,None,165.0,Medium
+2025-03-21,Python Tutorial,Yes,Gaming,141.0,Medium
+2025-02-17,Data Analysis,No,None,43.0,Low
+2025-03-06,Python Tutorial,Yes,Shorts,128.0,High
+2025-03-24,Pandas Course,No,None,165.0,High
+2025-04-10,Pandas Course,No,None,66.0,Low
+2025-03-30,Python Tutorial,No,None,31.0,High
+2025-02-19,SQL Lecture,Yes,None,177.0,Low
+2025-04-26,Data Analysis,No,,84.0,High
+2025-01-30,Pandas Course,No,None,39.0,Medium
+2025-01-20,Data Analysis,Yes,Gaming,167.0,Medium
+2025-01-20,Excel Tips,Yes,Music,68.0,Low
+2025-01-15,Power BI Tutorial,No,None,34.0,High
+2025-02-09,Statistics Class,No,None,124.0,Low
+2025-02-02,SQL Lecture,Yes,None,26.0,High
+2025-03-07,SQL Lecture,No,None,110.0,High
+2025-01-10,,No,None,133.0,High
+2025-02-27,SQL Lecture,Yes,Comedy,23.0,Medium
+2025-02-02,Statistics Class,No,None,11.0,Low
+2025-02-01,Pandas Course,No,None,12.0,Medium
+2025-03-16,Statistics Class,No,None,76.0,Medium
+2025-04-27,Excel Tips,No,None,157.0,Low
+2025-01-24,,No,None,168.0,Medium
+2025-02-05,Statistics Class,Yes,None,49.0,
+2025-03-17,Pandas Course,No,None,87.0,Low
+2025-04-25,Pandas Course,Yes,Gaming,36.0,Medium
+2025-02-25,Statistics Class,Yes,,125.0,
+2025-01-29,Statistics Class,,Reels,150.0,Medium
+2025-02-04,Excel Tips,Yes,Comedy,11.0,Low
+2025-01-01,Data Analysis,No,None,174.0,
+,Statistics Class,Yes,Reels,20.0,High
+2025-02-06,Data Analysis,No,None,116.0,Medium
+2025-02-23,Power BI Tutorial,Yes,Reels,42.0,High
+2025-01-06,Power BI Tutorial,Yes,Music,38.0,High
+2025-02-08,SQL Lecture,Yes,Music,75.0,Low
+,Power BI Tutorial,Yes,Music,93.0,Medium
+2025-04-27,Excel Tips,Yes,None,,High
+2025-01-18,Pandas Course,No,None,91.0,High
+2025-03-21,Data Analysis,Yes,Shorts,174.0,Medium
+2025-01-05,Data Analysis,No,None,63.0,Low
+2025-04-16,SQL Lecture,No,None,147.0,
+2025-02-12,SQL Lecture,,Shorts,25.0,Low
+2025-02-28,Statistics Class,Yes,,28.0,Low
+2025-02-01,Power BI Tutorial,,Reels,167.0,High
+2025-01-02,Statistics Class,No,None,52.0,Medium
+2025-03-07,SQL Lecture,Yes,Comedy,140.0,Medium
+2025-04-14,SQL Lecture,Yes,None,39.0,Low
+2025-02-11,Excel Tips,Yes,Comedy,155.0,High
+2025-02-27,Python Tutorial,Yes,None,45.0,High
+2025-02-05,Data Analysis,Yes,Music,130.0,
+2025-04-13,SQL Lecture,Yes,Reels,29.0,High
+,Pandas Course,,Gaming,154.0,Low
+2025-01-12,Data Analysis,Yes,Reels,,Medium
+2025-02-16,,Yes,Music,150.0,Low
+2025-03-24,SQL Lecture,Yes,Reels,109.0,Medium
+2025-04-02,Excel Tips,No,None,119.0,Low
+2025-01-01,Python Tutorial,No,None,30.0,Medium
+2025-01-15,Power BI Tutorial,No,None,141.0,Low
+2025-04-10,,Yes,Reels,91.0,Medium
+2025-02-23,Excel Tips,Yes,None,48.0,
+2025-01-13,Pandas Course,No,None,52.0,
+2025-02-12,Power BI Tutorial,Yes,Shorts,47.0,Low
+2025-03-26,Python Tutorial,,None,116.0,Medium
+2025-03-17,Pandas Course,Yes,Gaming,50.0,Low
+2025-03-10,Data Analysis,No,None,121.0,Low
+2025-01-07,,Yes,Gaming,37.0,High
+2025-03-10,Python Tutorial,Yes,None,142.0,High
+2025-02-17,Python Tutorial,No,None,160.0,Medium
+,Data Analysis,Yes,Music,175.0,High
+2025-01-04,Statistics Class,No,None,45.0,Low
+2025-03-18,Data Analysis,Yes,Reels,40.0,Medium
+,Power BI Tutorial,Yes,Comedy,17.0,High
+2025-02-22,Python Tutorial,No,None,98.0,Low
+2025-04-15,Data Analysis,Yes,Gaming,153.0,Medium
+2025-03-20,Python Tutorial,No,None,148.0,High
+2025-01-16,Statistics Class,Yes,None,157.0,Low
+2025-01-21,Excel Tips,,None,,Low
+2025-04-10,SQL Lecture,No,None,66.0,Medium
+2025-02-28,Python Tutorial,No,None,156.0,Medium
+2025-01-24,Pandas Course,Yes,Reels,70.0,High
+2025-03-21,Python Tutorial,Yes,Shorts,34.0,High
+2025-01-14,Data Analysis,Yes,Gaming,,Low
+2025-04-28,Pandas Course,No,None,118.0,Medium
+2025-03-27,Pandas Course,No,None,49.0,Medium
+2025-02-18,,,,126.0,Medium
+2025-02-19,Python Tutorial,No,None,114.0,High
+2025-03-11,Excel Tips,Yes,None,,Medium
+2025-02-11,Power BI Tutorial,No,None,121.0,Medium
+2025-02-05,Power BI Tutorial,Yes,Shorts,126.0,Low
+2025-03-06,Pandas Course,Yes,None,26.0,High
+2025-04-06,Pandas Course,No,,56.0,Low
+2025-03-11,Excel Tips,Yes,Music,104.0,High
+2025-04-05,,No,None,94.0,High
+2025-01-01,Power BI Tutorial,Yes,Comedy,33.0,Medium
+2025-04-24,Data Analysis,No,None,153.0,Medium
+2025-02-20,,No,None,93.0,Low
+2025-02-06,Data Analysis,Yes,None,129.0,Medium
+2025-02-04,Python Tutorial,Yes,Reels,65.0,High
+2025-02-18,Statistics Class,Yes,Music,108.0,Medium
+2025-04-04,Statistics Class,No,None,165.0,High
+2025-01-04,Statistics Class,Yes,Comedy,55.0,High
+2025-04-09,Python Tutorial,Yes,Shorts,91.0,High
+2025-02-12,Python Tutorial,Yes,None,,High
+2025-03-19,Statistics Class,Yes,Gaming,87.0,Low
+2025-04-23,Data Analysis,No,None,104.0,Medium
+2025-04-14,Pandas Course,Yes,None,143.0,Medium
+2025-01-22,Pandas Course,Yes,Music,131.0,Medium
+2025-03-15,Statistics Class,No,None,,Medium
+2025-01-01,,No,None,38.0,Low
+2025-01-11,Excel Tips,No,None,75.0,Low
+2025-04-25,Pandas Course,No,None,78.0,Medium
+2025-02-13,Power BI Tutorial,No,None,124.0,Medium
+2025-02-28,SQL Lecture,No,None,171.0,High
+2025-01-24,Data Analysis,No,None,128.0,High
+2025-03-01,Data Analysis,No,None,58.0,High
+2025-01-03,Data Analysis,Yes,Shorts,109.0,Medium
+2025-04-09,SQL Lecture,Yes,Music,79.0,Medium
+2025-03-04,Excel Tips,Yes,Shorts,109.0,Medium
+2025-02-05,Statistics Class,Yes,Music,,High
+2025-04-05,Excel Tips,Yes,Music,11.0,Low
+2025-03-09,Data Analysis,Yes,Gaming,139.0,High
+2025-03-24,Power BI Tutorial,No,None,163.0,Low
+2025-02-16,Statistics Class,Yes,Shorts,110.0,High
+2025-04-10,Excel Tips,No,None,87.0,High
+2025-01-21,Data Analysis,No,None,118.0,Low
+2025-03-23,Pandas Course,,Reels,,
+2025-02-20,Pandas Course,Yes,Comedy,106.0,Medium
+2025-01-28,Excel Tips,No,None,53.0,Low
+2025-01-15,Statistics Class,No,None,29.0,Low
+2025-02-11,SQL Lecture,Yes,Shorts,108.0,High
+2025-02-28,Power BI Tutorial,No,None,55.0,Medium
+2025-03-07,Excel Tips,Yes,Reels,110.0,High
+2025-02-06,Statistics Class,Yes,Reels,90.0,High
+2025-01-11,Python Tutorial,Yes,Music,122.0,High
+2025-03-28,Power BI Tutorial,Yes,,131.0,Low
+2025-02-13,Data Analysis,Yes,None,18.0,High
+2025-04-15,Python Tutorial,Yes,Comedy,74.0,Low
+2025-01-12,Excel Tips,,Gaming,,Medium
+2025-01-03,Pandas Course,Yes,Music,158.0,High
+2025-02-21,,No,None,106.0,Low
+2025-03-22,Excel Tips,Yes,None,117.0,Medium
+2025-02-02,SQL Lecture,No,None,143.0,Low
+2025-02-24,,No,None,95.0,Low
+2025-01-01,SQL Lecture,Yes,,34.0,Low
+2025-02-08,Pandas Course,Yes,Music,12.0,Medium
+2025-01-20,Statistics Class,Yes,Comedy,118.0,
+2025-02-16,SQL Lecture,Yes,Shorts,38.0,Medium
+2025-02-12,Power BI Tutorial,Yes,Reels,128.0,Medium
+2025-04-26,Power BI Tutorial,No,None,105.0,Medium
+2025-02-26,Python Tutorial,No,None,75.0,Low
+2025-03-02,Statistics Class,No,None,124.0,Low
+2025-04-15,Python Tutorial,No,None,152.0,Low
+2025-03-19,Python Tutorial,Yes,Gaming,31.0,Low
+2025-01-31,Python Tutorial,Yes,Reels,121.0,High
+2025-01-25,Power BI Tutorial,No,None,121.0,Low
+2025-01-03,Python Tutorial,No,None,43.0,High
+2025-01-04,SQL Lecture,Yes,Comedy,116.0,Medium
+2025-04-05,Python Tutorial,Yes,Shorts,140.0,Medium
+2025-04-09,Data Analysis,Yes,Gaming,37.0,Medium
+2025-04-18,Power BI Tutorial,No,None,129.0,High
+2025-01-14,SQL Lecture,Yes,Comedy,157.0,Medium
+2025-04-23,Pandas Course,Yes,Gaming,153.0,High
+2025-02-10,SQL Lecture,Yes,Gaming,81.0,Medium
+2025-03-14,Excel Tips,No,None,39.0,Medium
+2025-01-20,Pandas Course,Yes,None,173.0,High
+2025-04-06,Python Tutorial,Yes,Reels,58.0,Medium
+,Python Tutorial,,,90.0,Low
+2025-01-27,Excel Tips,Yes,None,73.0,Medium
+2025-03-08,Statistics Class,No,None,143.0,High
+2025-02-22,Python Tutorial,Yes,None,61.0,Medium
+2025-03-09,Pandas Course,Yes,None,71.0,High
+2025-04-19,Pandas Course,Yes,Comedy,116.0,Low
+,Pandas Course,No,None,27.0,High
+2025-01-15,SQL Lecture,No,None,55.0,Medium
+2025-04-07,Power BI Tutorial,,None,72.0,Medium
+2025-01-05,Power BI Tutorial,No,None,32.0,High
+,SQL Lecture,Yes,Music,112.0,High
+2025-04-20,Pandas Course,No,None,147.0,High
+2025-01-12,SQL Lecture,No,None,15.0,Medium
+2025-03-28,Statistics Class,No,None,86.0,High
+2025-03-19,SQL Lecture,No,None,71.0,Medium
+2025-04-20,Data Analysis,Yes,Shorts,180.0,Medium
+2025-03-17,Statistics Class,No,None,154.0,Low
+2025-02-26,SQL Lecture,No,None,69.0,High
+2025-01-17,Data Analysis,Yes,Gaming,27.0,Medium
+2025-01-25,Statistics Class,Yes,Shorts,70.0,High
+2025-01-30,Data Analysis,No,None,163.0,High
+2025-01-22,Power BI Tutorial,Yes,Comedy,152.0,High
+2025-04-21,Power BI Tutorial,Yes,Comedy,119.0,Medium
+,SQL Lecture,Yes,Shorts,71.0,High
+,SQL Lecture,No,None,,
+2025-03-02,SQL Lecture,Yes,Comedy,39.0,Medium
+2025-04-29,Power BI Tutorial,Yes,None,38.0,Medium
+2025-04-28,Python Tutorial,Yes,Shorts,143.0,Low
+2025-03-03,Data Analysis,No,None,94.0,Low
+2025-03-25,Python Tutorial,No,None,96.0,Low
+2025-02-03,Pandas Course,No,None,20.0,High
+2025-04-15,SQL Lecture,Yes,Music,53.0,Low
+,Pandas Course,No,None,168.0,Medium
+2025-04-11,Statistics Class,No,None,69.0,Low
+2025-03-12,,Yes,Reels,152.0,Medium
+2025-03-27,Data Analysis,No,None,130.0,Medium
+2025-02-01,Power BI Tutorial,Yes,Comedy,135.0,High
+2025-01-14,Excel Tips,No,None,66.0,High
+2025-03-13,SQL Lecture,No,None,114.0,Medium
+2025-02-26,Pandas Course,No,None,145.0,Low
+2025-01-25,Pandas Course,No,None,153.0,High
+2025-03-21,Pandas Course,Yes,None,129.0,Medium
+2025-02-11,Python Tutorial,Yes,Reels,62.0,Low
+2025-01-19,Python Tutorial,Yes,,42.0,High
+2025-02-10,Excel Tips,No,None,97.0,Low
+2025-02-24,Statistics Class,Yes,None,172.0,High
+2025-03-21,Python Tutorial,Yes,,39.0,Low
+2025-01-12,Power BI Tutorial,No,None,61.0,Medium
+2025-02-08,Data Analysis,Yes,Gaming,14.0,High
+2025-04-22,Data Analysis,No,None,133.0,Medium
+2025-04-04,Pandas Course,Yes,Shorts,164.0,High
+2025-01-02,Power BI Tutorial,,None,143.0,Medium
+2025-04-06,SQL Lecture,Yes,Music,132.0,Low
+2025-04-29,Pandas Course,Yes,Shorts,98.0,High
+2025-02-14,Data Analysis,No,None,27.0,High
+2025-03-30,Data Analysis,Yes,None,66.0,High
+2025-01-25,Data Analysis,Yes,Comedy,170.0,Low
+2025-03-09,Pandas Course,Yes,Shorts,91.0,Medium
+2025-03-24,Excel Tips,Yes,Music,82.0,Low
+2025-04-22,SQL Lecture,No,None,83.0,High
+2025-01-04,Excel Tips,,None,169.0,High
+2025-04-17,Excel Tips,No,None,104.0,High
+2025-03-18,SQL Lecture,No,None,83.0,High
+2025-04-13,Data Analysis,Yes,None,118.0,High
+2025-02-05,,Yes,Reels,170.0,High
+2025-03-28,Pandas Course,No,None,24.0,Medium
+2025-03-03,Pandas Course,Yes,Comedy,71.0,Low
+2025-03-11,Excel Tips,Yes,Gaming,97.0,Low
+2025-03-29,SQL Lecture,Yes,None,170.0,Medium
+2025-02-13,SQL Lecture,No,None,66.0,High
+,Python Tutorial,Yes,,166.0,High
+2025-01-12,Python Tutorial,Yes,Shorts,107.0,High
+2025-04-15,Excel Tips,No,None,56.0,Low
+2025-03-26,Pandas Course,Yes,None,118.0,Low
+2025-01-11,Data Analysis,No,None,,High
+2025-02-24,Statistics Class,Yes,Reels,175.0,Medium
+2025-04-18,Power BI Tutorial,Yes,Reels,130.0,
+2025-02-07,Data Analysis,Yes,Reels,12.0,
+2025-01-29,Excel Tips,Yes,Shorts,27.0,Medium
+2025-04-22,,Yes,Shorts,153.0,
+2025-04-15,Python Tutorial,Yes,None,95.0,Medium
+2025-01-03,Pandas Course,Yes,Gaming,103.0,High
+2025-01-28,SQL Lecture,No,None,111.0,Medium
+2025-03-25,Pandas Course,Yes,Comedy,130.0,Low
+2025-03-31,Pandas Course,Yes,Music,160.0,Low
+2025-01-24,Excel Tips,Yes,Gaming,17.0,Low
+2025-02-23,Python Tutorial,No,None,65.0,Medium
+2025-02-21,Python Tutorial,No,,36.0,High
+2025-02-16,Statistics Class,Yes,Reels,142.0,High
+2025-01-21,Data Analysis,No,None,119.0,Medium
+2025-02-23,SQL Lecture,Yes,Gaming,99.0,High
+2025-01-30,Statistics Class,No,None,36.0,Low
+2025-03-09,Statistics Class,No,None,121.0,Medium
+2025-02-05,SQL Lecture,No,None,93.0,Medium
+2025-02-09,Statistics Class,No,None,88.0,Medium
+2025-01-10,Power BI Tutorial,No,None,156.0,Low
+2025-03-15,Python Tutorial,No,None,131.0,Medium
+2025-02-11,Power BI Tutorial,No,None,106.0,Medium
+2025-01-24,Pandas Course,Yes,,101.0,High
+2025-01-04,Data Analysis,Yes,None,46.0,Medium
